@@ -1,0 +1,6 @@
+# Files the scripts generate when run
+/error_2.csv
+/matrix_*.npz
+Images/Calib/
+Images/Drawing/
+__pycache__/
