@@ -8,7 +8,7 @@ import os
 COLS, ROWS = 9,6 #11x7 - 9x6
 
 # Lote de imagenes
-LOTE = 'Lote_8_Molera/'
+LOTE = 'Lote_8_Batch/'
 
 # Ubicacion de imagenes sin calibrar y directorios para guardar imagenes
 FOLDER_DISTORTED = './Images/Not_Calib/' + LOTE

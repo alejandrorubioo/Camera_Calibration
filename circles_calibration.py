@@ -6,7 +6,7 @@ import glob
 COLS, ROWS = 11,8
 
 # Lote de imagenes
-LOTE = 'Lote_6_Molera/'
+LOTE = 'Lote_6_Batch/'
 
 # Ubicacion de imagenes sin calibrar y directorios para guardar imagenes
 FOLDER_DISTORTED = './Images/Not_Calib/' + LOTE

@@ -72,7 +72,7 @@ These steps come from the files in the repository; they were not re-run for this
 ```
 pip install opencv-python numpy
 python car_drawing.py            # needs a webcam and a printed 9x6 chessboard; press Shift+E to quit
-python circles_calibration.py    # runs as is on Lote_6_Molera
+python circles_calibration.py    # runs as is on Lote_6_Batch
 ```
 
 `chess_calibration.py` and `csv_export_calibration.py` point at batches that are not included here. Before running them, set this line at the top of each file:
@@ -102,6 +102,6 @@ The image set is a small subset of the original. Photographs showing people were
 
 Commit authors: [alejandrorubioo](https://github.com/alejandrorubioo), alexmolera.
 
-Alejandro Rubio (alejandrorubioo) shared design, development and implementation on equal terms with the team.
+Team project; I worked across the whole implementation.
 
 All rights remain with the authors; a licence is pending.
